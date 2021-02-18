@@ -38,10 +38,10 @@
 
  **tables**    
  
-Name|branch|college    
-----|------|-------    
-abc|cse|vrsec   
-koushik|papa|erripapa   
+|Name|branch|college|       
+|----|------|--------|      
+|abc|cse|vrsec|   
+|koushik|papa|pgv|      
 
 # **Code**
 ``` 
