@@ -37,10 +37,11 @@
 [git logo](https://lh3.googleusercontent.com/proxy/wEvNyaCbgeAAXG_584aGp8oJyIkVO6k-uFyvzwTbsMgGa2A0MH4aZ0hep0pdQPg_-TXJpfHTU6A51fDWyhz6anQPxI-A9AfIg06wFsGrEIZ-qSxOrefC5Q0ZbLb5PTyMqxDCMW0wntJyqjpcSnoqu5k5ShXKspXm7EjV)
 
  **tables**    
-   Name|branch|college    
-   ----|------|-------    
-    abc|cse|vrsec   
-    koushik|papa|erripapa   
+ 
+Name|branch|college    
+----|------|-------    
+abc|cse|vrsec   
+koushik|papa|erripapa   
 
 # **Code**
 ``` 
